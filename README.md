@@ -11,3 +11,13 @@
 8. Homework Surprise
 9. Homework Tasty
 10. Homework ZickZack
+1. Erstellung einer Website zum Thema Sonnensystem
+2. Liste von Planeten und Asteroiden
+3. Seite zur Antarktis erstellen
+4. Boxmodell erstellen
+5. Website zur Landschaftsfotografie designen
+6. Website zum Thema Schnee winterlich gestalten
+7. Video verknüpfen und eine Webiste gestalten
+8. VW und BMW Logos animieren mithilfe eines hovers
+9. Homepage zum Thema essen gestalten
+10. ZickZack Layout mithilfe der Flexbox erstellen
